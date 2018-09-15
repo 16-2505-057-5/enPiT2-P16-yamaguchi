@@ -1,1 +1,5 @@
 theme: jekyll-theme-merlot
+title: enPiT2018 GitHub Pages 演習
+description: GitHub Pagesの演習を行います
+github: 
+  is_projevt_page: false
